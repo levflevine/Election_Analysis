@@ -31,3 +31,10 @@ The election commission has requested some additional data to complete the audit
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
+
+### Results Shown in the Terminal 
+![Terminal Screenshot](/Resources/Terminal_Screen.png)
+
+### Results Shown in the Election_Results.txt File
+![Terminal Screenshot](/Resources/Election_Results_Screen.png)
+
